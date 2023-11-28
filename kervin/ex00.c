@@ -1,9 +1,9 @@
-#include <stdio.sh>
+#include <stdio.h>
 
 int main(int argc, char const *argv[])
 {
-   int suma1;
-   int suma2;
+   int soma1;
+   int soma2;
    int resultado;
 
     printf("Ingrese o valor 1");
